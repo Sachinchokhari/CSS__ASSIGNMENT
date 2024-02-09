@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../clipath"
+		},
+		{
+			"path": "../fonts"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../services"
+		},
+		{
+			"path": "../shutter_grid"
+		},
+		{
+			"path": "../team"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../temp"
+		}
+	]
+}
